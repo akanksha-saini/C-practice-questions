@@ -1,3 +1,4 @@
+//Program to print the favtorial of a number 
 #include<stdio.h>
 #include<conio.h>
 void main()
